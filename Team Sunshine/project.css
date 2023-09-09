@@ -196,7 +196,8 @@ h1 {
 .icon {
     display: flex;
     margin: auto;
-    height: 70px;
+    height: 90px;
+    width: 90px;
     filter: invert(72%) sepia(66%) saturate(6215%) hue-rotate(298deg) brightness(105%) contrast(101%);
 }
 /* Get involved page END*/
